@@ -1,6 +1,6 @@
 # frontend-101-content
 
-Eğitimde izmeye çalışacağım roadmap -> https://roadmap.sh/r/frontend-101
+Eğitimde izlemeye çalışacağım roadmap -> https://roadmap.sh/r/frontend-101
 
 Excalidraw link -> https://excalidraw.com/#json=64NgSvs21fh4mLRWiNrRQ,ayN7qB9OoftbMUYFUDDKaQ
 
