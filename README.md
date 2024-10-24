@@ -1,23 +1,7 @@
 # frontend-101-content
 
-Frontend 101 eğitimi başlıklar
+Eğitimde izmeye çalışacağım roadmap -> https://roadmap.sh/r/frontend-101
 
-Kullanıcının bilgisayarında çalışır. 
+Excalidraw link -> https://excalidraw.com/#json=64NgSvs21fh4mLRWiNrRQ,ayN7qB9OoftbMUYFUDDKaQ
 
--> Web nedir ? Protokollerden bahset.
--> Web nasıl calısıyor. Bir siteye gittiğimizde arada hangi adımlar gerçekleşiyor bunlardan bahsedeceğiz. 
--> Browser nasıl çalışıyor. Browser farklılıklarının önemini vurgula.
--> Frontend nedir -> backend nedir
-
--> Çalıştırma ortamının kurulması
-
-- HTML nedir -> Basic HTML ->  Semantic HTML -> Basic SEO
-- CSS nedir-> Learn the basics HTML -> Basic Layout -> Responsive Design
-- Web gelitşrirken tarayıcının bize sundularından bahset.
-- JS nedir-> Learn Basic -> if / for / -> Learn DOM manipulation
-
-Rendering Metholodies.
-
--> Package manager -> npm/pnpm
--> Frameworkler neden var? Frontend tarafındaki frameworkler
--> React
+İlerisi için takip edebileceğiniz roadmap -> https://roadmap.sh/frontend
